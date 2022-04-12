@@ -12,7 +12,7 @@ Sử dụng câu lệnh sau để khởi tạo
 npm init
 ```
 
-Chạy lệnh dưới đây để khởi tạo API từ file
+Chạy lệnh dưới đây để khởi tạo API từ file `db.json`
 
 ```bash
 npm start
