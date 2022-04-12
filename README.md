@@ -2,7 +2,7 @@
 
 * Tạo một ứng dụng CRUD đơn giản thêm, sửa xóa khóa học
 * Ứng dụng sửa dụng JavaScript thuần
-* Tạo mock API bằng file db.json
+* Tạo mock API bằng file `db.json`
 
 ## Cài đặt
 
@@ -21,5 +21,5 @@ npm start
 
 ## Usage
 
-* Copy đường dẫn localhost được tạo từ câu lệnh npm start vào biến lưu trữ cho API trong file main.js
-* Chạy file index.html
+* Copy đường dẫn `localhost` được tạo từ câu lệnh `npm start` vào biến lưu trữ cho API (`courseApi`) trong file `main.js`
+* Chạy file `index.html`
