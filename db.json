@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "id": 3,
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ..."
+    },
+    {
+      "name": "Xây Dựng Website với ReactJS",
+      "description": "Khóa học ReactJS từ cơ bản tới nâng cao, kết quả của khóa học này là bạn có thể làm hầu hết các dự án thường gặp với ReactJS. Cuối khóa học này bạn sẽ sở hữu một dự án giống Tiktok.com, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này.",
+      "id": 4
+    },
+    {
+      "name": "Kiến Thức Nhập Môn IT",
+      "description": "Để có cái nhìn tổng quan về ngành IT - Lập trình web các bạn nên xem các videos tại khóa này trước nhé.",
+      "id": 7
+    },
+    {
+      "name": "Responsive Với Grid System",
+      "description": "Trong khóa này chúng ta sẽ học về cách xây dựng giao diện web responsive với Grid System, tương tự Bootstrap 4.",
+      "id": 8
+    },
+    {
+      "name": "HTML, CSS từ Zero đến Hero",
+      "description": "Trong khóa này chúng ta sẽ cùng nhau xây dựng giao diện 2 trang web là The Band & Shopee.",
+      "id": 9
+    },
+    {
+      "name": "Làm việc với Terminal & Ubuntu",
+      "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web Developer.",
+      "id": 10
+    },
+    {
+      "name": "Node & ExpressJS",
+      "description": "Học Back-end với Node & ExpressJS framework, hiểu các khái niệm khi làm Back-end và xây dựng RESTful API cho trang web.",
+      "id": 11
+    }
+  ]
+}
